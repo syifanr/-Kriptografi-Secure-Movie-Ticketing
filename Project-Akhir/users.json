@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "hashed_password_admin",
+        "role": "admin"
+    },
+    "pembeli1": {
+        "password": "hashed_password_pembeli1",
+        "role": "pembeli"
+    }
+}
